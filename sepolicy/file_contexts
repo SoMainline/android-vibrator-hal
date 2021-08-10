@@ -1,0 +1,2 @@
+/(system/vendor|vendor)/bin/hw/android\.hardware\.vibrator@1\.0-service\.evdev          u:object_r:hal_vibrator_default_exec:s0
+
